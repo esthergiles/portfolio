@@ -85,7 +85,7 @@ const Navbar = () => {
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duraction-300 bg-[#333333]'>
-            <a className='w-full flex justify-between items-center text-gray-300'href='github.com/esthergiles' target='blank'>
+            <a className='w-full flex justify-between items-center text-gray-300'href='https://www.github.com/esthergiles' target='blank'>
               Github <FaGithub size={30} />
             </a>
           </li>
@@ -95,7 +95,7 @@ const Navbar = () => {
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duraction-300 bg-[#565f69]'>
-            <a className='w-full flex justify-between items-center text-gray-300'href='/'>
+            <a className='w-full flex justify-between items-center text-gray-300'href='https://github.com/esthergiles/my_resume/blob/main/esther_brown.pdf' target='blank'>
               Resume <BsFillPersonLinesFill size={30} />
             </a>
           </li>
