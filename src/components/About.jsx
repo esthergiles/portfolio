@@ -17,7 +17,9 @@ const About = () => {
               <p>Hi. My name is Esther. Thanks for popping by!</p>
             </div>
             <div>
-              <p>Creative and curious, I bring a level-headed and compassionate approach to teamwork. I am a recent graduate, proficient in PHP and C++, with a passion for software development and user-centric design. I enjoy learning new languages, frameworks, and ways to write cleaner, DRY code. </p>  
+              <p> When I am not typing away in an editor, I enjoy hiking, traveling, writing, and connecting with others. </p>
+              <p> My favorite part of programming? DEBUGGING! There is something about clearing error codes and tracing logic that I find very satisfying. </p>
+              <p>I want to be a part of a team creating software that empowers the lives of the people using it. If I’d make a good fit with your company, let’s connect!  </p>  
             </div>
           </div>
       </div>
